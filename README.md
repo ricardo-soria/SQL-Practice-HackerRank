@@ -1,22 +1,16 @@
-# SQL Practice: HackerRank Solutions
+# SQL Portfolio: HackerRank Advanced Solutions
 
-This repository documents my progress in solving complex SQL challenges, focusing on logic, optimization, and clean code.
+This repository contains my solutions to complex SQL challenges, organized by logic and optimization techniques.
 
-## 🚀 Featured Challenge: Symmetric Pairs
-**Platform:** HackerRank  
-**Concepts:** Self-Joins, Row Identity (ROW_NUMBER), Aggregate Functions, Subqueries.
+## 📁 Project Index
 
-### 🧠 My Evolution of Solutions:
-I developed three distinct approaches to solve this challenge, demonstrating an evolution from row-level logic to set-theory optimization:
+### 1. [Symmetric Pairs](./Symmetric-Pairs/)
+*   **Key Skills:** Self-Joins, Row Identity, Performance Optimization.
+*   *Status: Completed with 3 versions of the solution.*
 
-*   **Version 1: Self-Join with Row Identity (DISTINCT)**
-    *   *Concept:* Used `ROW_NUMBER()` to ensure a row doesn't match with itself. Applied `DISTINCT` for the final output.
-    
-*   **Version 2: Hybrid Join with Aggregation (GROUP BY)**
-    *   *Concept:* A transition toward efficiency by replacing `DISTINCT` with `GROUP BY` and `HAVING` to manage the logic of symmetric existence.
-
-*   **Version 3: Optimized Subquery (EXISTS)**
-    *   *Concept:* The most scalable version. Leveraging the `EXISTS` clause to validate symmetry without the overhead of a full self-join.
+### 2. [Occupations: Data Pivoting](./Occupations-Pivot/)
+*   **Key Skills:** Data Transformation, PIVOT logic, Window Functions.
+*   *Status: Completed with step-by-step visual analysis.*
 
 ---
-*Focusing on clean code, performance trade-offs, and scalable SQL architecture.*
+*Last updated: May 2026*
