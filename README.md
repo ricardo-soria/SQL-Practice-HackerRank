@@ -4,7 +4,7 @@ This repository contains my solutions to complex SQL challenges, organized by lo
 
 ## 📁 Project Index
 
-### 1. [Symmetric Pairs](./Symmetric-Pairs/)
+### 1. [Symmetric Pairs Evolution](./Symmetric-Pairs-Evolution/)
 *   **Key Skills:** Self-Joins, Row Identity, Performance Optimization.
 *   *Status: Completed with 3 versions of the solution.*
 
