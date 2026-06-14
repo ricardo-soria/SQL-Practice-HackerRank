@@ -12,5 +12,8 @@ This repository contains my solutions to complex SQL challenges, organized by lo
 *   **Key Skills:** Data Transformation, PIVOT logic, Window Functions.
 *   *Status: Completed with step-by-step visual analysis.*
 
+### 3. [15 Days of Learning SQL](./15-Days-Of-Learning-SQL/)
+*   **Key Skills:** Time-Series Continuity, Complex Correlated Subqueries, Date Arithmetic.
+*   *Status: Completed Hard Level Challenge.*
 ---
-*Last updated: May 2026*
+*Last updated: June 2026*
