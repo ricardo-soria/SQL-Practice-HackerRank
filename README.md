@@ -15,5 +15,9 @@ This repository contains my solutions to complex SQL challenges, organized by lo
 ### 3. [15 Days of Learning SQL](./15-Days-Of-Learning-SQL/)
 *   **Key Skills:** Time-Series Continuity, Complex Correlated Subqueries, Date Arithmetic.
 *   *Status: Completed Hard Level Challenge.*
+
+### 4. [Interviews: Multi-Table Aggregation](./Interviews-Aggregation/)
+* **Key Skills:** Common Table Expressions (CTEs), Preventing Data Inflation (Fan-out), Complex Left Joins.
+* *Status: Completed Hard Level Challenge.*
 ---
 *Last updated: June 2026*
