@@ -16,7 +16,7 @@ This repository contains my solutions to complex SQL challenges, organized by lo
 *   **Key Skills:** Time-Series Continuity, Complex Correlated Subqueries, Date Arithmetic.
 *   *Status: Completed Hard Level Challenge.*
 
-### 4. [Interviews: Multi-Table Aggregation](./Interviews-Aggregation/)
+### 4. [Interviews: Multi-Table Aggregation](./Interviews/)
 * **Key Skills:** Common Table Expressions (CTEs), Preventing Data Inflation (Fan-out), Complex Left Joins.
 * *Status: Completed Hard Level Challenge.*
 ---
