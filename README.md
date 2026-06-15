@@ -19,5 +19,9 @@ This repository contains my solutions to complex SQL challenges, organized by lo
 ### 4. [Interviews: Multi-Table Aggregation](./Interviews/)
 * **Key Skills:** Common Table Expressions (CTEs), Preventing Data Inflation (Fan-out), Complex Left Joins.
 * *Status: Completed Hard Level Challenge.*
----
+
+### 5. [Binary Tree Nodes: Hierarchical Data](./Binary-Tree-Nodes/)
+* **Key Skills:** Tree Data Structures, Self-Joins with Pre-Aggregation, Performance Optimization.
+* *Status: Completed Medium Level Challenge.*
+* ---
 *Last updated: June 2026*
